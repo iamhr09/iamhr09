@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Himanshu Ranjan</h1>
-<h3 align="center">🎓 B.Tech CSE Student | Frontend Developer | DSA Learner </h3>
+<h3 align="center">🎓 B.Tech IT Student | Frontend Developer | DSA Learner </h3>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a B.Tech student from NIET passionate about building clean and interactive web applications. Skilled in **React.js**, **JavaScript**, **HTML**, **CSS**, and **TailwindCSS**, I'm also learning **Spring Boot** for backend development and sharpening my DSA skills in **C++**. I love building, learning, and solving real-world problems.
+I'm a B.Tech student from NIET passionate about building clean and interactive web applications. Skilled in **React.js**, **JavaScript**, **HTML**, **CSS**, and **TailwindCSS**, I'm also learning **Node.js , Express.js** for backend development and sharpening my DSA skills in **C++**. I love building, learning, and solving real-world problems.
 
 ---
 
