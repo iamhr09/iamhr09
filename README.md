@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Himanshu Ranjan</h1>
-<h3 align="center">🎓 B.Tech CSE Student | Frontend Developer | DSA Learner | Spring Boot Explorer</h3>
+<h3 align="center">🎓 B.Tech CSE Student | Frontend Developer | DSA Learner </h3>
 
 ---
 
